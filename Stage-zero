@@ -1,0 +1,39 @@
+#Samslango's profile
+a = "Name: Samuel Oseni"
+b = "Slack Username: Samslango"
+c = "Email: Samueloseniayo@gmail.com"
+d = "Hobby: Playing video games, reading & solving problems"
+e = "Country: Nigeria"
+f = "Discipline: Physiology"
+g = "Preferred Programming Language: Python"
+
+print (a)
+print (b)
+print (c)
+print (d)
+print (e)
+print (f)
+print (g)
+
+Sam = {
+"Name": "Samuel Oseni",
+"Slack_name": "Samslango",
+"Email": "Samueloseniayo@gmail.com",
+"Hobby": "Playing video games, reading, Solving problem",
+"Country": "Nigeria",
+"Discipline": "Physiology",
+"Preferred_Programming_language": "Python"
+}
+
+print(f"Name: {Sam['Name']}")
+print(f"Slack_name: {Sam['Slack_name']}")
+print(f"Email: {Sam['Email']}")
+print(f"Hobby: {Sam['Hobby']}")
+print(f"Country: {Sam['Country']}")
+print(f"Discipline: {Sam['Discipline']}")
+print(f"Preferred_Programming_language: {Sam['Preferred_Programming_language']}")
+
+x=" "
+print(x)
+
+#https://github.com/Samslango/Sam-Bio/new/main
